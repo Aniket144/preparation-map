@@ -11,10 +11,18 @@ There are a lot of languages out there but strictly speaking from competitive pe
 You should be comfortable with applying object oriented principles when designing a project. This empowers to create project that have good maintenance and easy to understand. 
    
 ### 3. Big-O Notation
+Understand how to calculate the efficiency of a programming solution with respect to both time and space. 
+- [Big-O Cheatsheet](https://www.bigocheatsheet.com)
 
 ### 4. Basic Math 
+A lot of complex programming problems can be reduced to simple problems if you treat it like a math problem to begin with. 
+- [Number Theory](https://brilliant.org/wiki/number-theory/)
+- [Modular Arithmatics](https://brilliant.org/wiki/modular-arithmetic/)
+- [Prime factorization](https://www.geeksforgeeks.org/print-all-prime-factors-of-a-given-number/)
+- [Prime Sieve](https://brilliant.org/wiki/sieve-of-eratosthenes)
 
 ### 5. Searching Algorithms
+
 
 ### 6. Sorting Algorithms
 
